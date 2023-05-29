@@ -1,0 +1,14 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syed sadi",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
